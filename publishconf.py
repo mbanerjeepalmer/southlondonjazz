@@ -19,7 +19,7 @@ RELATIVE_URLS = True
 
 DELETE_OUTPUT_DIRECTORY = True
 
-THEME = "/pelican-themes/basic"
+THEME = "./basic"
 
 # Following items are often useful when publishing
 

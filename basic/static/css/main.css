@@ -38,3 +38,6 @@ pre {
     white-space: pre-wrap;
 }
 
+ol {
+  line-height: 2;
+}
