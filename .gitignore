@@ -5,6 +5,11 @@ fredropol-env
 *~
 *.py[cod]
 
+pelican-themes/*
+!pelican-themes/basic/
+
+output
+
 ### OS Generated Files ###
 *.out
 *.swp
