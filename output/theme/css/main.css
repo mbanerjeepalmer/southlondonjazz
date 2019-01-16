@@ -41,3 +41,7 @@ pre {
 ol {
   line-height: 2;
 }
+
+.subscribe-form {
+  border: thin solid gray;
+}
