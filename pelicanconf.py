@@ -5,6 +5,8 @@ from __future__ import unicode_literals
 AUTHOR = 'staff'
 SITENAME = 'South London Jazz'
 SITEURL = ''
+STATIC_PATHS = ['images']
+ARTICLE_PATHS = ['pages']
 
 PATH = 'content'
 
