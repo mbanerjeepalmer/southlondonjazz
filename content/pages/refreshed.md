@@ -7,9 +7,9 @@ If you want to understand the 'new wave of jazz coming out of the UK' you can't 
 
 **Mau Mau Bar in West London**
 
-Jazz re:freshed has held a residency at May Mau Bar every Thursday since 2003. For 16 years they've given young musicians a space to develop.
+Jazz re:freshed has held a residency at Mau Mau Bar every Thursday since 2003. For 16 years they've given young musicians a space to develop.
 
-Don't turn up on time. You'll sit at the bar for three hours. Two hours in  you get a bag of crisps to break the evening up a bit. Everyone else turns up 10 minutes before the music starts. They pack the narrow space in front of the stage..
+Don't turn up on time. You'll sit at the bar for three hours. Two hours in  you get a bag of crisps to break the evening up a bit. Everyone else turns up 10 minutes before the music starts. They pack the narrow space in front of the stage.
 
 On my first visit I saw Roella Oloro Quintet. Her music is complex, pre-planned. Her quintet read sheet music on stage, carefully. It's dramatic too - especially with Isobella Burnham on bass. She drives.
 
@@ -33,5 +33,6 @@ Jazz re:freshed is also a record label. Like the Mau Mau bar sessions, its 5ive 
 he trombone has an image problem. And Turton’s trombone, despite her bandleader status, was lost a little in the mix. That was a shame; [the EP is strong.](https://open.spotify.com/album/0ecE3kT7P76f7ZUtEvnL9X?si=ivjefV9ZSg-0gwjDHzRW5A)
 
 And I'll go to see anything where Jake Long is on drums. 
+
 **Where now?**
 Jazz re:freshed started before Arsenal's Invincibles season, and outlasted their trophy drought and Arsène Wenger. Along with Brownswood, it's become central to new jazz music in the UK. To do this it's received £287,385 from Arts Council England between 2015 and 2018. It's due [£523,180](https://www.artscouncil.org.uk/national-portfolio-2018-22/more-data-2018-22) from them in the following three years. And Rosie Turton is making it into Apple Music playlists.
