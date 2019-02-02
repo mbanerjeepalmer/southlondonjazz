@@ -7,7 +7,7 @@ If you want to understand the 'new wave of jazz coming out of the UK' you can't 
 
 **Mau Mau Bar in West London**
 
-Jazz re:freshed has held a residency at May Mau Bar every Thursday since 2003. For 16 years they've given young musicians a space to develop.
+Jazz re:freshed has held a residency at Mau Mau Bar every Thursday since 2003. For 16 years they've given young musicians a space to develop.
 
 Don't turn up on time. You'll sit at the bar for three hours. Two hours in  you get a bag of crisps to break the evening up a bit. Everyone else turns up 10 minutes before the music starts. They pack the narrow space in front of the stage..
 
