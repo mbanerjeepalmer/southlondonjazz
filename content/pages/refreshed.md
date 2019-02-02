@@ -33,5 +33,6 @@ Jazz re:freshed is also a record label. Like the Mau Mau bar sessions, its 5ive 
 he trombone has an image problem. And Turton’s trombone, despite her bandleader status, was lost a little in the mix. That was a shame; [the EP is strong.](https://open.spotify.com/album/0ecE3kT7P76f7ZUtEvnL9X?si=ivjefV9ZSg-0gwjDHzRW5A)
 
 And I'll go to see anything where Jake Long is on drums. 
+
 **Where now?**
 Jazz re:freshed started before Arsenal's Invincibles season, and outlasted their trophy drought and Arsène Wenger. Along with Brownswood, it's become central to new jazz music in the UK. To do this it's received £287,385 from Arts Council England between 2015 and 2018. It's due [£523,180](https://www.artscouncil.org.uk/national-portfolio-2018-22/more-data-2018-22) from them in the following three years. And Rosie Turton is making it into Apple Music playlists.
